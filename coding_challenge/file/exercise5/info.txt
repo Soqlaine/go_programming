@@ -1,0 +1,3 @@
+The file exists in the current working directory.
+
+Are you stuck? Do you want to see the solution for this exercise? Click
